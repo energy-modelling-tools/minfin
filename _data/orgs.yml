@@ -1,8 +1,13 @@
 # Partner institutions for homepage display
 partners:
-  - name: worldbank
-    logo: /assets/img/partners/worldbank.png
-    display_name: World Bank Group
-    url: https://www.worldbank.org/
+  - name: University of Oxford
+    logo: /assets/img/partners/UO.png
+    display_name: University of Oxford
+    url: https://www.smithschool.ox.ac.uk/
+    
+  - name: Imperial College London
+    logo: /assets/img/partners/ICL.png
+    display_name: Imperial College London
+    url: https://www.imperial.ac.uk/
     
 

@@ -1,109 +1,100 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: FFRM
+title: MINFin
 permalink: /learning_capacity/
 ---
 
 <section class="bg-gray-light py-5 fade-in-center">
   <div class="container-lg p-responsive">
 
-  <div class="text-center fade-in-center">
-    <h2 class="alt-h2 mb-4">Learning & Capacity Building</h2>
-  </div>
-    <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">
-          <strong>📘 Aiming for Open University New Course Launch Soon</strong>
-        </a>
-      </h3>
-      <!---
-      <p class="animate-in" style="font-size: 0.95rem;".</p>
-      <p class="animate-in">
-        <a href="https://www.open.edu/openlearncreate/course/view.php?id=13558" class="btn btn-outline-light">Access Here →</a>
+    <div class="text-center fade-in-center">
+      <h2 class="alt-h2 mb-4">Learning & Capacity Building</h2>
+    </div>
+
+    <!-- E-Learning Material -->
+    <div class="mt-4 animate-in">
+      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">🎓 OpenLearn Course: <strong>Financial Modelling for Energy Transitions – MINFin, FinTrack and FinCoRE</strong></h3>
+      <p class="animate-in" style="font-size: 0.95rem; text-align: justify;">
+        The <strong>Financial Modelling for Energy Transitions</strong> course provides participants with the foundational skills to evaluate the financial viability 
+        of energy transition investments on the national level, particularly in low- and middle-income countries. 
+        The course introduces <strong>MINFin (Model for Informed National Financing)</strong>, an Excel-based cashflow model designed to identify and assess climate finance gaps 
+        at the national level. Participants will also work with two complementary data visualisation tools:
       </p>
-    </div>
---->
-
-<!---
-    <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">📦 Starter Data Kits</h3>
-      <p class="animate-in" style="font-size: 0.95rem;">Take your skills to the next level by modelling a zero-order representation of your country using specially designed national data packages adapted for OSeMOSYS.</p>
-      <div class="row align-items-center mb-4 animate-in">
-        <div class="col-md-6">
-          <p class="animate-in" style="font-size: 0.95rem;">Enhance your skills in energy systems modelling with our user-friendly interface and additional learning materials, enabling comprehensive national-level modelling of the power and transport sectors.</p>
-          <ul class="animate-in">
-            <li><strong>Download Interface</strong> – <em>Coming soon</em></li>
-            <li><strong>Teaching Material (Zenodo)</strong> – <em>Coming soon</em></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-1 animate-in" style="font-size: 1.25rem;">🎓 Energy Modelling Community (YouTube Playlist)</h3>
-      <div class="row align-items-center text-left mb-4 animate-in">
-        <div class="col-md-6">
-          <p class="animate-in" style="font-size: 0.95rem;">Explore insights and community discussions from the Energy Modelling Platform and Climate Compatible Growth events.</p>
-          <p class="animate-in"><a href="https://www.youtube.com/watch?v=of8JpyEd8_Y&list=PLhLN8V8JSUnJgt4SIE7gnXXncVEaXh0Ir" target="_blank" class="btn btn-outline-primary sky-blue-accent d-block d-sm-inline-block px-1 px-md-3" style="border-color: #3490dc; color: #3490dc;">Watch on YouTube →</a></p>
-        </div>
-      </div>
-    </div>
-
-    <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">
-        <a href="https://climatecompatiblegrowth.com/energy-modelling-platform/" class="text-dark font-weight-bold" style="text-decoration: none;">
-          <strong>🌍 Energy Modelling Platforms (EMPs)</strong>
-        </a>
-      </h3>
-      <p class="animate-in" style="font-size: 0.95rem;">By offering training to professionals from the Global South, the Energy Modelling Platforms (EMPs) enable these countries to gather critical data, perform independent analyses, and develop credible investment proposals for clean energy infrastructure projects. EMPs play a vital role in what we refer to as local capacity building.</p>
+      <ul class="animate-in text-gray" style="font-size: 0.95rem;">
+        <li><strong>FinTrack (Climate Finance Tracker):</strong> Maps funding sources, highlights underutilised financing resources, and details financing access criteria.</li>
+        <li><strong>FinCoRE (Financing Costs for Renewables Estimator):</strong> Offers historical and forward-looking projections of cost of capital.</li>
+      </ul>
+      <p class="animate-in" style="font-size: 0.95rem; text-align: justify;">
+        By the end of the course, participants will be equipped to apply these tools and principles to effectively address the financial needs of climate transitions. 
+      </p>
       <p class="animate-in">
-        <a href="https://climatecompatiblegrowth.com/energy-modelling-platform/" class="btn btn-outline-light">Learn more →</a>
+        <a href="https://www.open.edu/openlearncreate/course/view.php?id=14218" target="_blank" class="btn btn-outline-primary sky-blue-accent" style="border-color: #3490dc; color: #3490dc;">
+          Access the Course →
+        </a>
       </p>
     </div>
 
+    <!-- User Interface / Download Link -->
+    <div class="mt-5 animate-in">
+      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">💻 User Interface: <strong>MINFin-Excel</strong></h3>
+      <p class="animate-in" style="font-size: 0.95rem; text-align: justify;">
+        <strong>MINFin</strong> features an intuitive Excel-based interface designed for accessibility across ministries, including non-specialist users. 
+        By removing the need for advanced modelling software or programming skills, MINFin enables energy and finance ministries to collaborate directly 
+        in assessing the financial viability of national energy transition plans. 
+        The tool includes structured templates, guided workflows, and integrated analysis dashboards, making advanced financial modelling 
+        a shared and transparent function within government. 
+        When paired with the OpenLearn course, MINFin offers a robust, easy-to-use foundation for credible financial planning.
+      </p>
+      <p class="animate-in">
+        <a href="https://github.com/MINFinModel/MINFin-Excel/tree/main?tab=readme-ov-file" target="_blank" class="btn btn-outline-primary sky-blue-accent" style="border-color: #3490dc; color: #3490dc;">
+          Download MINFin-Excel →
+        </a>
+      </p>
+    </div>
 
-    <div class="container-lg p-responsive py-4 py-md-6 my-lg-6 animate-in">
-      <h3 class="alt-h3 text-center mb-3 animate-in" style="font-size: 1.25rem;">🌍 Explore EMP Events</h3>
-      
-      <div class="clearfix gutter-spacious">
-        {% for event in site.data.learning_events.events %}
-        <div class="col-md-4 float-left animate-in mb-4">
-          <h3 class="alt-h3 mb-3">{{ event.title }}</h3>
-          <p><a href="" target="_blank">
-            <img src="{{ event.image }}" class="img-fluid" alt="{{ event.alt }}"/></a>
-          </p>
-          <p class="text-gray">{{ event.description }}</p>
-          <details class="animate-in">
-            <summary class="btn btn-sm btn-outline toggle-arrow">Show Outputs</summary>
-            <ul class="mt-2">
-              {% for output in event.outputs %}
-              <li class="animate-in">{{ output.flag }} <strong>{{ output.country }}</strong>: <a href="{{ output.url }}" target="_blank">{{ output.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </details>
-        </div>
-        {% endfor %}
-      </div>
--->
-<!--
-      <!-- EMP-Adjacent Events 
-      <div class="clearfix gutter-spacious">
-        <div class="col-md-12 animate-in mb-4">
-          <h3 class="alt-h3 mb-3">EMP-Adjacent Events</h3>
-          <p class="text-gray">These capacity building events used the OSeMOSYS methodology outside the formal EMP series:</p>
-          <ul>
-            {% for adjacent in site.data.learning_events.adjacent_events %}
-            <li class="animate-in">{{ adjacent.flag }} <a href="{{ adjacent.url }}" target="_blank">{{ adjacent.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
+   <!-- EMP Events -->
+    <div class="mt-5 animate-in">
+      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">🌍 EMP Events</h3>
+      <p class="animate-in" style="font-size: 0.95rem; text-align: justify;">
+        MINFin is not currently featured at any Energy Modelling Platform (EMP) events, but its introduction is planned for <strong>2026</strong>. 
+        For the latest updates, subscribe to the <a href="https://climatecompatiblegrowth.com/newsletter/" target="_blank" class="text-blue text-decoration-none">CCG Newsletter</a>.
+      </p>
+    </div>
+
+    <!-- Other Teaching Events -->
+    <div class="mt-5 animate-in">
+      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">📚 Other Teaching Events</h3>
+
+      <div class="application-card mt-3 p-4 border border-gray-200 rounded">
+        <h4 class="mb-2">Zambia Introduction to Financial Modelling Workshop</h4>
+        <p class="text-gray" style="font-size: 0.95rem; text-align: justify;">
+          In <strong>March 2025</strong>, CCG delivered in-country training to <strong>28 participants</strong> from a diverse mix of public and private energy and financial institutions in Zambia. 
+          The training formed part of a six-month project to develop a <strong>Financing Strategy for Zambia’s Integrated Resource Plan (IRP)</strong> and served as a key element of the project’s 
+          co-creation and capacity building approach. The workshop marked the first introduction of two CCG open-source finance modelling tools – <strong>MINFin</strong> and <strong>FinTrack</strong> – 
+          alongside the IAEA’s project finance tool, <strong>FINPLAN</strong>. 
+          These tools were presented through a combination of lectures, discussion, and hands-on training sessions.
+        </p>
+        <p class="animate-in">
+          <a href="https://www.linkedin.com/posts/climate-compatible-growth-ccg_data2deal-zambia-irpfinancingstrategy-activity-7316468550330642435--vk6/" target="_blank" class="btn btn-outline-primary sky-blue-accent" style="border-color: #3490dc; color: #3490dc;">
+            View Workshop Post →
+          </a>
+        </p>
+        <p class="text-center mt-3">
+          <img src="assets/img/EMP/Zambia.jpg" alt="Zambia Financial Modelling Workshop Group Photo" class="img-fluid rounded shadow-sm" style="max-width: 500px;">
+        </p>
       </div>
     </div>
 
-    <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">🛠️ Flatpack Program</h3>
-    <p class="animate-in" style="font-size: 0.95rem;">Content to be updated soon.</p>
-  
-  -->
+    <!-- Optional Placeholder for Future Training Section -->
+    <div class="mt-5 animate-in">
+      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">📘 Upcoming Learning Opportunities</h3>
+      <p class="animate-in" style="font-size: 0.95rem; text-align: justify;">
+        A new Open University course on <strong>national-scale financial modelling for energy transitions</strong> will launch soon. 
+        Stay tuned for updates and registration details here.
+      </p>
+    </div>
+
   </div>
 </section>
 

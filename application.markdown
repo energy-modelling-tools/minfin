@@ -1,91 +1,110 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: FFRM
+title: MINFin
 permalink: /applications/
 ---
 <section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
   <div class="text-center fade-in-center">
-    <h2 class="alt-h2 mb-4">FFRM Applications</h2>
+    <h2 class="alt-h2 mb-4">MINFin Applications</h2>
   </div>
 
   <div class="applications-content text-left">
-    <p class="lead mb-4">FFRM is a useful tool for assessing the stranded cost implications that may arise as a country decarbonizes its electricity sector. The model was originally developed by the World Bank to assess stranded cost under various defined scenarios, with its most recent application in exploring the stranded cost implications of decarbonizing India and the Philippines power sector. </p>
+    <p class="lead mb-4">
+      <strong>MINFin</strong> is a fundamental building block for bridging technical energy planning and financial strategy. 
+      Developed with a focus on low- and middle-income countries, it is already shaping how governments, development partners, and analysts 
+      think about the affordability and financial viability of energy transitions. 
+      MINFin is designed to be flexible, transparent, and adaptable to a range of policy, institutional, and financing contexts. 
+      Its applications span government-led policy processes and methodological research in academic institutions. 
+      Several examples include:
+    </p>
 
-    <!--
-     <div class="applications-grid">
+    <div class="applications-grid mt-5">
       <div class="application-category">
         <h3 class="category-title">Governments</h3>
-        <ul class="application-list">
-          <li><a href="https://energypedia.info/wiki/LTEM_-_Energy_Department_of_the_Cyprus_Institute">National Energy and Climate Plan in Cyprus</a></li>
-        </ul>  
+        <p class="text-gray" style="font-size: 0.9em;">
+          MINFin is being used by <strong>Zambia’s Ministry of Energy</strong>, with support from CCG researchers, to assess the financial feasibility of its Integrated Resource Plan (IRP). 
+          By integrating outputs from OSeMOSYS with financing assumptions, MINFin helps determine whether planned investments are fiscally sustainable and how external finance 
+          and tariff policies can support implementation. The model also informs Zambia’s engagement with development finance institutions.
+        </p>
       </div>
 
-      <div class="application-category">
-        <h3 class="category-title">Industry and Think Tanks</h3>
-        <ul class="application-list">
-          <li><a href="https://www.globalccsinstitute.com/wp-content/uploads/2021/10/genzo1123.pdf">Global CCS Institute</a></li>
-        </ul>
-      </div>
-
-      <div class="application-category">
+      <div class="application-category mt-4">
         <h3 class="category-title">Academia</h3>
-        <ul class="application-list">
-          <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">Politecnico di Milano – 
-        </ul>
+        <p class="text-gray" style="font-size: 0.9em;">
+          Researchers and students at the <strong>University of Oxford</strong> and <strong>Imperial College London</strong> are applying MINFin as part of academic coursework and research projects 
+          to study fiscal risk, financing gaps, and debt sustainability in energy systems. It is being integrated into master’s-level curricula and used in supervised dissertation projects 
+          on sustainable finance and energy policy.
+        </p>
       </div>
+    </div>
+
+    <h3 class="category-title mt-5">Specialist Applications</h3>
+    <p class="text-gray" style="font-size: 0.9em;">
+      Beyond national planning contexts, MINFin is increasingly being used in high-level international climate finance dialogues to illustrate the financial viability 
+      of energy transitions and support equitable resource allocation frameworks. These specialist applications reflect the model’s adaptability and policy relevance 
+      at the global scale:
+    </p>
+
+    <!-- Specialist Application 1 -->
+    <div class="application-card mt-4 p-4 border border-gray-200 rounded">
+      <h4>1. COP29 Policy Brief – How Much Climate Finance Do Low- and Middle-Income Countries Need?</h4>
+      <p>
+        <a href="https://climatecompatiblegrowth.com/wp-content/uploads/Affording-the-Climate-Transition.pdf" target="_blank" class="text-blue text-decoration-none">
+          🔗 Read the Policy Brief (PDF)
+        </a>
+      </p>
+      <p class="text-gray" style="font-size: 0.9em;">
+        In this CCG COP29 Policy Brief, MINFin is applied to Kenya and Ghana to estimate the financing required to achieve Net Zero transitions in their power sectors. 
+        The analysis compares Business-as-Usual (BAU) and Net Zero (NZ) scenarios to quantify the additional investment burden, assess feasible financing modalities 
+        (grants, loans, blended finance, carbon credits, and debt relief), and demonstrate the role of concessional capital. 
+        The findings inform negotiations under the <strong>New Collective Quantified Goal (NCQG)</strong>, advocating for allocation principles that reflect real country-level needs 
+        and financing constraints.
+      </p>
+    </div>
+
+    <!-- Specialist Application 2 -->
+    <div class="application-card mt-4 p-4 border border-gray-200 rounded">
+      <h4>2. COP30 Policy Brief – Using MINFin to Support Country-Level Climate Finance Needs Assessment under the NCQG Framework</h4>
+      <p class="text-gray" style="font-size: 0.9em;">
+        <em>Link: Currently missing from the new CCG website</em>
+      </p>
+      <p class="text-gray" style="font-size: 0.9em;">
+        This brief illustrates how MINFin can support the next phase of UNFCCC negotiations by helping countries quantify their actual climate finance needs. 
+        It proposes a transparent framework for disaggregating the global climate finance goal into credible, country-specific estimates. 
+        The model enables countries to assess what share of the global goal they might require, based on factors like carbon intensity, 
+        access to concessional finance, and the investment gap between BAU and Net Zero. 
+        The approach supports a more structured and evidence-based allocation of international public climate finance.
+      </p>
+    </div>
+
+    <!-- Specialist Application 3 -->
+    <div class="application-card mt-4 p-4 border border-gray-200 rounded">
+      <h4>3. T20 – G20: From Access to Affordability – A New Lens on Climate Finance for LMICs</h4>
+      <p>
+        <a href="https://t20southafrica.org/commentaries/from-access-to-affordability-a-new-lens-on-climate-finance-for-lmics/" target="_blank" class="text-blue text-decoration-none">
+          🔗 Read the T20 Commentary
+        </a>
+      </p>
+      <p class="text-gray" style="font-size: 0.9em;">
+        This <strong>T20 South Africa</strong> policy commentary highlights the importance of shifting from a focus on 
+        <em>access</em> to <em>affordability</em> in LMIC climate finance strategies. 
+        Using insights from MINFin, the authors argue that affordability, not just capital availability, must be central to G20 deliberations. 
+        The piece emphasizes the need for concessional finance, tailored instruments, and tools like MINFin that align climate ambition with fiscal reality. 
+        It recommends broader G20 support for open modelling platforms that help LMICs articulate and justify their financing needs.
+      </p>
     </div>
   </div>
 </section>
 
- <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
-  <div class="text-center mb-5">
-    <h2 class="alt-h2">Specialist versions of the tool</h2>
-  </div>
-
-  <div class="slider-wrapper my-5">
-    <div class="arrow arrow-left" onclick="slideTextPrev()">‹</div>
-
-    <div class="slider-container">
-      <div class="slider" id="textSlider">
-        <div class="slide-card">
-          <h3>OSeMOSYS Global</h3>
-          <p><a href="https://osemosys-global.readthedocs.io/en/latest/" target="_blank">Open-source global electricity model</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>GENESYS-MOD</h3>
-          <p><a href="https://git.tu-berlin.de/genesysmod/genesys-mod-public" target="_blank">Modular European decarbonisation model</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>TEMBA</h3>
-          <p><a href="https://zenodo.org/records/3521841" target="_blank">The African electricity model base</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>OSeMBE</h3>
-          <p><a href="https://github.com/HauHe/OSeMBE" target="_blank">Open Source energy Model – Base for Europe</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>SAMBA</h3>
-          <p><a href="http://www.osemosys.org/samba.html" target="_blank">Southern African Model Base for Analysis</a></p>
-        </div>
-      </div>
-    </div>
-
-    <div class="arrow arrow-right" onclick="slideTextNext()">›</div>
-  </div>
-
-  <div class="slider-dots text-center mt-3" id="sliderDots"></div>
-</section>
--->
-
+<!--
 <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
   <div class="recommended-reading">
     <h2 class="alt-h2 text-center mb-4">Recommended Reading</h2>
-    <p class="text-center mb-5">For a broader analysis of applications and advancements in OSeMOSYS, see the following peer-reviewed publications:</p>
+    <p class="text-center mb-5">
+      For a broader analysis of applications and advancements in MINFin and related open modelling tools, 
+      see the following peer-reviewed publications:
+    </p>
 
     <div class="publications-list">
       {% for publication in site.data.publications %}
@@ -107,11 +126,9 @@ permalink: /applications/
       </div>
       {% endfor %}
     </div>
-
   </div>
-  
 </section>
-
+-->
 <style>
 /* Enhanced Applications Page Styling */
 .applications-content {
