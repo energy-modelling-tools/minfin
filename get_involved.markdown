@@ -15,6 +15,8 @@ permalink: /contact/
       </p>
     </div>
 
+    {% include forum_cta.html %}
+
     <!-- Section 1: Community / How to Engage -->
     <div class="involvement-section mb-5">
       <h3 class="section-title text-center mb-4">💬 How to Engage</h3>
