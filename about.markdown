@@ -9,13 +9,13 @@ permalink: /about/
     <h2 class="alt-h3 mb-4">About MINFin</h2>
     <div class="container-lg p-responsive py-4 py-md-6">
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           <strong>MINFin</strong> – the Model for Informed National Financing – is a financial planning tool developed under the 
           <strong>Climate Compatible Growth (CCG)</strong> programme by researchers at the <strong>University of Oxford</strong> and 
           <strong>Imperial College London</strong>. It was designed to answer a critical question that most energy system models leave out: 
           <em>how will the transition be financed?</em>
         </p>
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           MINFin fills this gap by translating the technical outputs of energy plans into financial terms, enabling governments and their partners 
           to assess whether investment strategies are not only technically sound but also economically viable. The model is open-source and built 
           for accessibility, including non-specialist users across ministries, to support transparent, collaborative financial planning for 
@@ -25,7 +25,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="what-it-does">What does it do?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           MINFin is an Excel-based sector cashflow model that projects the costs of building an energy system, estimates the cost of financing 
           based on real-world terms (e.g., interest rates, loan terms), and calculates likely revenue streams. It identifies financing gaps and 
           allows users to test strategies to close them—whether through tariff reforms, cost reductions, increased concessional finance, or 
@@ -35,7 +35,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="scope">What is the scope of the model?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           The model operates at the national level, focused on the power sector. It links with technical planning models like 
           <strong>OSeMOSYS</strong> and other finance tools such as <strong>FinTrack</strong> (concessional finance tracking) and 
           <strong>FINPLAN</strong> (project-level analysis) to offer a complete picture of sector-wide financial viability and public debt exposure.
@@ -44,7 +44,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="audience">Who is the target audience?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           MINFin is tailored for governments, public planners, analysts, development partners, and financial institutions engaged in energy 
           transition strategy—especially in LMICs where public finance plays a critical role. Its intuitive interface makes it usable by both 
           finance and energy ministries, enabling joint ownership of strategy.
@@ -53,7 +53,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="outcomes">What outcomes can you obtain?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           MINFin helps users understand the financial implications of national energy transition plans by addressing several key questions:
         </p>
         <ul class="text-gray text-left col-md-10 mx-auto" style="font-size: 0.875em;">
@@ -68,7 +68,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="get-started">How can you get started?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           You can access the model on GitHub and follow the free online training course via OpenLearn. These resources include 
           step-by-step guides, templates, and real-world case studies to help users apply the model in their national context.
         </p>
@@ -76,7 +76,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="contribute">How can you contribute?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           As an open-source tool, MINFin welcomes contributions. You can:
         </p>
         <ul class="text-gray text-left col-md-10 mx-auto" style="font-size: 0.875em;">
@@ -85,10 +85,10 @@ permalink: /about/
           <li>Share case studies and lessons from applications</li>
           <li>Contribute to documentation and localisation</li>
         </ul>
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           Feedback from real-world applications is particularly welcome to enhance model usability and relevance.
         </p>
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           For further information on the model, please contact <strong>Hannah Luscombe</strong>, curator of the MINFin Model, at 
           <a href="mailto:hannah.luscombe@ouce.ox.ac.uk" class="text-blue text-decoration-none">hannah.luscombe@ouce.ox.ac.uk</a>.
         </p>

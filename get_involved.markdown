@@ -27,7 +27,7 @@ permalink: /contact/
           <h5>Open Issues & Requests</h5>
           <p class="text-gray">Report bugs, request features, or propose enhancements via GitHub Issues.</p>
           <p class="mb-0">
-            <a href="https://github.com/MINFinModel/MINFin-Excel/issues" target="_blank" class="btn btn-outline-primary sky-blue-accent" style="border-color:#3490dc;color:#3490dc;">Go to Issues →</a>
+            <a href="https://github.com/MINFinModel/MINFin-Excel/issues" target="_blank" class="btn btn-outline-primary sky-blue-accent">Go to Issues →</a>
           </p>
         </div>
 
