@@ -1,12 +1,12 @@
 # Partner institutions for homepage display
 partners:
   - name: University of Oxford
-    logo: /assets/img/partners/UO.png
+    logo: /assets/img/partners/university_of_oxford.svg
     display_name: University of Oxford
     url: https://www.smithschool.ox.ac.uk/
     
   - name: Imperial College London
-    logo: /assets/img/partners/ICL.jpg
+    logo: /assets/img/partners/imperial_college_london.svg
     display_name: Imperial College London
     url: https://www.imperial.ac.uk/
     
