@@ -7,7 +7,7 @@
 
 # global settings
 title: MINFin
-logo: "/assets/img/logos/MINFin.svg"
+logo: "/assets/img/logos/minfin.svg"
 description: "GitHub helps government build software better, together"
 baseurl: "/minfin"
 permalink: "/stories/:title"
