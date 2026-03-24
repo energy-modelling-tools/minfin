@@ -46,28 +46,11 @@ permalink: /applications/
  at the global scale:
  </p>
 
- <!-- Specialist Application 1 -->
- <div class="application-card mt-4 p-4 border border-gray-200 rounded">
- <h4>1. COP29 Policy Brief – How Much Climate Finance Do Low- and Middle-Income Countries Need?</h4>
- <p>
- <a href="https://climatecompatiblegrowth.com/wp-content/uploads/Affording-the-Climate-Transition.pdf" target="_blank" class="text-blue text-decoration-none">
- 🔗 Read the Policy Brief (PDF)
- </a>
- </p>
- <p class="text-gray content-text-sm">
- In this CCG COP29 Policy Brief, MINFin is applied to Kenya and Ghana to estimate the financing required to achieve Net Zero transitions in their power sectors. 
- The analysis compares Business-as-Usual (BAU) and Net Zero (NZ) scenarios to quantify the additional investment burden, assess feasible financing modalities 
- (grants, loans, blended finance, carbon credits, and debt relief), and demonstrate the role of concessional capital. 
- The findings inform negotiations under the <strong>New Collective Quantified Goal (NCQG)</strong>, advocating for allocation principles that reflect real country-level needs 
- and financing constraints.
- </p>
- </div>
-
  <!-- Specialist Application 2 -->
  <div class="application-card mt-4 p-4 border border-gray-200 rounded">
- <h4>2. COP30 Policy Brief – Using MINFin to Support Country-Level Climate Finance Needs Assessment under the NCQG Framework</h4>
+ <h4>COP30 Policy Brief – Using MINFin to Support Country-Level Climate Finance Needs Assessment under the NCQG Framework</h4>
  <p class="text-gray content-text-sm">
- <em>Link: Currently missing from the new CCG website</em>
+ <em>links coming soon</em>
  </p>
  <p class="text-gray content-text-sm">
  This brief illustrates how MINFin can support the next phase of UNFCCC negotiations by helping countries quantify their actual climate finance needs. 
@@ -78,9 +61,37 @@ permalink: /applications/
  </p>
  </div>
 
+ <!-- Specialist Application 1 -->
+ <div class="application-card mt-4 p-4 border border-gray-200 rounded">
+ <h4>COP29 Policy Brief – How Much Climate Finance Do Low- and Middle-Income Countries Need?</h4>
+ <p>
+ <a href="(https://climatecompatiblegrowth.com/wp-content/uploads/COP29_Policy_Brief_MinFin.pdf" target="_blank" class="text-blue text-decoration-none">
+ 🔗 Read the Policy Brief (PDF)</a> 
+ </p>
+ <p class="text-gray content-text-sm">
+ In this CCG COP29 Policy Brief, MINFin is applied to Kenya and Ghana to estimate the financing required to achieve Net Zero transitions in their power sectors. 
+ The analysis compares Business-as-Usual (BAU) and Net Zero (NZ) scenarios to quantify the additional investment burden, assess feasible financing modalities 
+ (grants, loans, blended finance, carbon credits, and debt relief), and demonstrate the role of concessional capital. 
+ The findings inform negotiations under the <strong>New Collective Quantified Goal (NCQG)</strong>, advocating for allocation principles that reflect real country-level needs 
+ and financing constraints.
+ </p>
+ </div>
+
+ <!-- Specialist Application  -->
+ <div class="application-card mt-4 p-4 border border-gray-200 rounded">
+ <h4>COP28 Policy Brief – How can Countries in the Global South Afford the Climate Transition?</h4>
+ <p>
+ <a href="(https://climatecompatiblegrowth.com/wp-content/uploads/Affording-the-Climate-Transition.pdf" target="_blank" class="text-blue text-decoration-none">
+ 🔗 Read the Policy Brief (PDF)</a>
+ </p>
+ <p class="text-gray content-text-sm">
+In this CCG COP28 policy brief, the MINFin model is introduced as a way to assess climate financing gaps by comparing the financing costs of net-zero power sector transitions with the sector’s ability to repay financing. The approach projects capital investment requirements, financing costs, and expected power-sector cashflows to estimate affordability constraints. A pilot application in Kenya illustrates the potential scale of financing gaps in LMICs and highlights the importance of lowering financing costs, expanding concessional finance, and strengthening coordination between Ministries of Energy and Finance to support viable transition pathways.
+ </p>
+ </div>
+
  <!-- Specialist Application 3 -->
  <div class="application-card mt-4 p-4 border border-gray-200 rounded">
- <h4>3. T20 – G20: From Access to Affordability – A New Lens on Climate Finance for LMICs</h4>
+ <h4>T20 – G20: From Access to Affordability – A New Lens on Climate Finance for LMICs</h4>
  <p>
  <a href="https://t20southafrica.org/commentaries/from-access-to-affordability-a-new-lens-on-climate-finance-for-lmics/" target="_blank" class="text-blue text-decoration-none">
  🔗 Read the T20 Commentary
