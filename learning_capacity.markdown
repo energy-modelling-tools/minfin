@@ -4,7 +4,6 @@ layout: sub-page
 title: MINFin
 permalink: /learning_capacity/
 ---
-
 <section class="bg-gray-light py-5 fade-in-center">
  <div class="container-lg p-responsive">
 
@@ -57,7 +56,10 @@ permalink: /learning_capacity/
  <div class="mt-5 animate-in">
  <h3 class="alt-h3 mt-3">🌍 EMP Events</h3>
  <p class="animate-in content-text-md text-justify">
- MINFin is not currently featured at any Energy Modelling Platform (EMP) events, but its introduction is planned for <strong>2026</strong>. 
+Applications are now open for our first ever financial modelling track covering MINFin at the Energy Modelling Platform – Global 2026 (EMP-G): Financial Modelling for Energy Transitions. The track will introduce tools such as MINFin to assess investment needs, financing constraints, and the affordability of energy transition pathways. Applications are open until 3 April 2026.  [Apply here](https://indico.ictp.it/event/11151?#)
+
+For more information, see: <a href="https://climatecompatiblegrowth.com/ccg-launches-a-new-emp-global-track-on-financing-the-energy-transition/" target="_blank" class="text-blue text-decoration-none">here</a>
+
  For the latest updates, subscribe to the <a href="https://climatecompatiblegrowth.com/newsletter/" target="_blank" class="text-blue text-decoration-none">CCG Newsletter</a>.
  </p>
  </div>
