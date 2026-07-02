@@ -31,6 +31,8 @@ permalink: /minfin-python/
  <a href="https://colab.research.google.com/github/MINFinModel/minfin-py-public-release/blob/colab-release/minfin_colab.ipynb" target="_blank" class="btn btn-outline-primary sky-blue-accent">
  Open the Colab Notebook &rarr;
  </a>
+ <li class="text-center d-block d-sm-inline-block px-1 px-md-1"><a href="https://colab.research.google.com/github/MINFinModel/minfin-py-public-release/blob/colab-release/minfin_colab.ipynb">{% octicon link height:18 %} Open the Colab Notebook </a></li>
+
 <p class="text-gray content-text-md mb-4">
 When using MinFin on Colab, you'll be prompted to upload a input sheet. <a href="assets/MINFin Python Input File.xlsx" download>Click here to download the template input sheet</a>
  </p>
