@@ -29,13 +29,19 @@ permalink: /minfin-python/
  The notebook is intended for trial use, learning, and early exploration.
  </p>
  <a href="https://colab.research.google.com/github/MINFinModel/minfin-py-public-release/blob/colab-release/minfin_colab.ipynb" target="_blank" class="btn btn-outline-primary sky-blue-accent">
- Open the Colab Notebook &rarr;
+ {% octicon link height:18 %} Open notebook in Google Colab
  </a>
- <li class="text-center d-block d-sm-inline-block px-1 px-md-1"><a href="https://colab.research.google.com/github/MINFinModel/minfin-py-public-release/blob/colab-release/minfin_colab.ipynb">{% octicon link height:18 %} Open the Colab Notebook </a></li>
 
 <p class="text-gray content-text-md mb-4">
-When using MinFin on Colab, you'll be prompted to upload a input sheet. <a href="assets/MINFin Python Input File.xlsx" download>Click here to download the template input sheet</a>
- </p>
+When using MinFin on Colab, you'll be prompted to upload a input sheet. 
+ 
+ <a href="assets/MINFin Python Input File.xlsx" download target="_blank" class="btn btn-outline-primary sky-blue-accent"> {% octicon rows height:18 %} Download input template </a>
+</p>
+<p class="text-gray content-text-md mb-4">
+You will also need this template to process the results.
+ 
+ <a href="assets/ResultsTemplateMinFin_20260701.xlsm" download target="_blank" class="btn btn-outline-primary sky-blue-accent">{% octicon table height:18 %} Download results template </a>
+</p>
  </div>
  </div>
 </section>
