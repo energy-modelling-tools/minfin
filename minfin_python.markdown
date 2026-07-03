@@ -35,7 +35,7 @@ permalink: /minfin-python/
 <p class="text-gray content-text-md mb-4">
 When using MinFin on Colab, you'll be prompted to upload a input sheet. 
 </p>
- <a href="assets/MINFin%20Python%20Input%20File.xlsx" download class="btn btn-outline-primary sky-blue-accent"> 
+ <a href="{{ '/assets/MINFin Python Input File.xlsx' | relative_url }}" download class="btn btn-outline-primary sky-blue-accent"> 
  {% octicon rows height:18 %} Download input template 
  </a>
 
@@ -43,7 +43,7 @@ When using MinFin on Colab, you'll be prompted to upload a input sheet.
 <p class="text-gray content-text-md mb-4">
 You will also need this template to process the results.
 </p>
- <a href="assets/ResultsTemplateMinFin_20260701.xlsm" download class="btn btn-outline-primary sky-blue-accent">
+ <a href="{{ '/assets/ResultsTemplateMinFin_20260701.xlsm' | relative_url }}" download class="btn btn-outline-primary sky-blue-accent">
  {% octicon table height:18 %} Download results template 
  </a>
  
