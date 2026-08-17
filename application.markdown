@@ -78,7 +78,7 @@ permalink: /applications/
  <h4>COP29 Policy Brief – How Much Climate Finance Do Low- and Middle-Income Countries Need?</h4>
  <!-- CMS:section id=application_cop29_policy_brief_how_much -->
  <p>
- <a href="(https://climatecompatiblegrowth.com/wp-content/uploads/COP29_Policy_Brief_MinFin.pdf" target="_blank" class="text-blue text-decoration-none">
+ <a href="https://climatecompatiblegrowth.com/wp-content/uploads/COP29_Policy_Brief_MinFin.pdf" target="_blank" class="text-blue text-decoration-none">
  🔗 Read the Policy Brief (PDF)</a> 
  </p>
  <!-- /CMS:section -->
@@ -98,7 +98,7 @@ permalink: /applications/
  <h4>COP28 Policy Brief – How can Countries in the Global South Afford the Climate Transition?</h4>
  <!-- CMS:section id=application_cop28_policy_brief_how_can -->
  <p>
- <a href="(https://climatecompatiblegrowth.com/wp-content/uploads/Affording-the-Climate-Transition.pdf" target="_blank" class="text-blue text-decoration-none">
+ <a href="https://climatecompatiblegrowth.com/wp-content/uploads/Affording-the-Climate-Transition.pdf" target="_blank" class="text-blue text-decoration-none">
  🔗 Read the Policy Brief (PDF)</a>
  </p>
  <!-- /CMS:section -->
