@@ -14,19 +14,25 @@ permalink: /learning_capacity/
  <!-- E-Learning Material -->
  <div class="mt-4 animate-in">
  <h3 class="alt-h3 mt-3">🎓 OpenLearn Course: <strong>Financial Modelling for Energy Transitions – MINFin, FinTrack and FinCoRE</strong></h3>
+ <!-- CMS:section id=learning_capacity_openlearn_course_financial_modelling_for -->
  <p class="animate-in content-text-md text-justify">
  The <strong>Financial Modelling for Energy Transitions</strong> course provides participants with the foundational skills to evaluate the financial viability 
  of energy transition investments on the national level, particularly in low- and middle-income countries. 
  The course introduces <strong>MINFin (Model for Informed National Financing)</strong>, an Excel-based cashflow model designed to identify and assess climate finance gaps 
  at the national level. Participants will also work with two complementary data visualisation tools:
  </p>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=learning_capacity_openlearn_course_financial_modelling_for_2 -->
  <ul class="animate-in text-gray">
  <li><strong>FinTrack (Climate Finance Tracker):</strong> Maps funding sources, highlights underutilised financing resources, and details financing access criteria.</li>
  <li><strong>FinCoRE (Financing Costs for Renewables Estimator):</strong> Offers historical and forward-looking projections of cost of capital.</li>
  </ul>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=learning_capacity_openlearn_course_financial_modelling_for_3 -->
  <p class="animate-in content-text-md text-justify">
  By the end of the course, participants will be equipped to apply these tools and principles to effectively address the financial needs of climate transitions. 
  </p>
+ <!-- /CMS:section -->
  <p class="animate-in">
  <a href="https://www.open.edu/openlearncreate/course/view.php?id=14218" target="_blank" class="btn btn-outline-primary sky-blue-accent">
  Access the Course →
@@ -37,6 +43,7 @@ permalink: /learning_capacity/
  <!-- User Interface / Download Link -->
  <div class="mt-5 animate-in">
  <h3 class="alt-h3 mt-3">💻 User Interface: <strong>MINFin-Excel</strong></h3>
+ <!-- CMS:section id=learning_capacity_user_interface_minfin_excel -->
  <p class="animate-in content-text-md text-justify">
  <strong>MINFin</strong> features an intuitive Excel-based interface designed for accessibility across ministries, including non-specialist users. 
  By removing the need for advanced modelling software or programming skills, MINFin enables energy and finance ministries to collaborate directly 
@@ -45,6 +52,7 @@ permalink: /learning_capacity/
  a shared and transparent function within government. 
  When paired with the OpenLearn course, MINFin offers a robust, easy-to-use foundation for credible financial planning.
  </p>
+ <!-- /CMS:section -->
  <p class="animate-in">
  <a href="https://github.com/MINFinModel/MINFin-Excel/tree/main?tab=readme-ov-file" target="_blank" class="btn btn-outline-primary sky-blue-accent">
  Download MINFin-Excel →
@@ -55,6 +63,7 @@ permalink: /learning_capacity/
  <!-- EMP Events -->
  <div class="mt-5 animate-in">
  <h3 class="alt-h3 mt-3">🌍 EMP Events</h3>
+ <!-- CMS:section id=learning_capacity_emp_events -->
  <p class="animate-in content-text-md text-justify">
 Applications are now open for our first ever financial modelling track covering MINFin at the Energy Modelling Platform – Global 2026 (EMP-G): Financial Modelling for Energy Transitions. The track will introduce tools such as MINFin to assess investment needs, financing constraints, and the affordability of energy transition pathways. Applications are open until 3 April 2026.  [Apply here](https://indico.ictp.it/event/11151?#)
 
@@ -62,6 +71,7 @@ For more information, see: <a href="https://climatecompatiblegrowth.com/ccg-laun
 
  For the latest updates, subscribe to the <a href="https://climatecompatiblegrowth.com/newsletter/" target="_blank" class="text-blue text-decoration-none">CCG Newsletter</a>.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  <!-- Other Teaching Events -->
@@ -70,6 +80,7 @@ For more information, see: <a href="https://climatecompatiblegrowth.com/ccg-laun
 
  <div class="application-card mt-3 p-4 border border-gray-200 rounded">
  <h4 class="mb-2">Zambia Introduction to Financial Modelling Workshop</h4>
+ <!-- CMS:section id=learning_capacity_zambia_introduction_to_financial_modelling -->
  <p class="text-gray animate-in content-text-md text-justify">
  In <strong>March 2025</strong>, CCG delivered in-country training to <strong>28 participants</strong> from a diverse mix of public and private energy and financial institutions in Zambia. 
  The training formed part of a six-month project to develop a <strong>Financing Strategy for Zambia’s Integrated Resource Plan (IRP)</strong> and served as a key element of the project’s 
@@ -77,6 +88,7 @@ For more information, see: <a href="https://climatecompatiblegrowth.com/ccg-laun
  alongside the IAEA’s project finance tool, <strong>FINPLAN</strong>. 
  These tools were presented through a combination of lectures, discussion, and hands-on training sessions.
  </p>
+ <!-- /CMS:section -->
  <p class="animate-in">
  <a href="https://www.linkedin.com/posts/climate-compatible-growth-ccg_data2deal-zambia-irpfinancingstrategy-activity-7316468550330642435--vk6/" target="_blank" class="btn btn-outline-primary sky-blue-accent">
  View Workshop Post →
@@ -91,10 +103,12 @@ For more information, see: <a href="https://climatecompatiblegrowth.com/ccg-laun
  <!-- Optional Placeholder for Future Training Section -->
  <div class="mt-5 animate-in">
  <h3 class="alt-h3 mt-3">📘 Upcoming Learning Opportunities</h3>
+ <!-- CMS:section id=learning_capacity_upcoming_learning_opportunities -->
  <p class="animate-in content-text-md text-justify">
  A new Open University course on <strong>national-scale financial modelling for energy transitions</strong> will launch soon. 
  Stay tuned for updates and registration details here.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  </div>

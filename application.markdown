@@ -10,6 +10,7 @@ permalink: /applications/
  </div>
 
  <div class="applications-content text-left">
+ <!-- CMS:section id=application_minfin_applications -->
  <p class="lead mb-4">
  <strong>MINFin</strong> is a fundamental building block for bridging technical energy planning and financial strategy. 
  Developed with a focus on low- and middle-income countries, it is already shaping how governments, development partners, and analysts 
@@ -18,40 +19,50 @@ permalink: /applications/
  Its applications span government-led policy processes and methodological research in academic institutions. 
  Several examples include:
  </p>
+ <!-- /CMS:section -->
 
  <div class="applications-grid mt-5">
  <div class="application-category">
  <h3 class="category-title">Governments</h3>
+ <!-- CMS:section id=application_governments -->
  <p class="text-gray content-text-sm">
  MINFin is being used by <strong>Zambia’s Ministry of Energy</strong>, with support from CCG researchers, to assess the financial feasibility of its Integrated Resource Plan (IRP). 
  By integrating outputs from OSeMOSYS with financing assumptions, MINFin helps determine whether planned investments are fiscally sustainable and how external finance 
  and tariff policies can support implementation. The model also informs Zambia’s engagement with development finance institutions.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  <div class="application-category mt-4">
  <h3 class="category-title">Academia</h3>
+ <!-- CMS:section id=application_academia -->
  <p class="text-gray content-text-sm">
  Researchers and students at the <strong>University of Oxford</strong> and <strong>Imperial College London</strong> are applying MINFin as part of academic coursework and research projects 
  to study fiscal risk, financing gaps, and debt sustainability in energy systems. It is being integrated into master’s-level curricula and used in supervised dissertation projects 
  on sustainable finance and energy policy.
  </p>
+ <!-- /CMS:section -->
  </div>
  </div>
 
  <h3 class="category-title mt-5">Specialist Applications</h3>
+ <!-- CMS:section id=application_specialist_applications -->
  <p class="text-gray content-text-sm">
  Beyond national planning contexts, MINFin is increasingly being used in high-level international climate finance dialogues to illustrate the financial viability 
  of energy transitions and support equitable resource allocation frameworks. These specialist applications reflect the model’s adaptability and policy relevance 
  at the global scale:
  </p>
+ <!-- /CMS:section -->
 
  <!-- Specialist Application 2 -->
  <div class="application-card mt-4 p-4 border border-gray-200 rounded">
  <h4>COP30 Policy Brief – Using MINFin to Support Country-Level Climate Finance Needs Assessment under the NCQG Framework</h4>
+ <!-- CMS:section id=application_cop30_policy_brief_using_minfin -->
  <p class="text-gray content-text-sm">
  <em>links coming soon</em>
  </p>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=application_cop30_policy_brief_using_minfin_2 -->
  <p class="text-gray content-text-sm">
  This brief illustrates how MINFin can support the next phase of UNFCCC negotiations by helping countries quantify their actual climate finance needs. 
  It proposes a transparent framework for disaggregating the global climate finance goal into credible, country-specific estimates. 
@@ -59,15 +70,19 @@ permalink: /applications/
  access to concessional finance, and the investment gap between BAU and Net Zero. 
  The approach supports a more structured and evidence-based allocation of international public climate finance.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  <!-- Specialist Application 1 -->
  <div class="application-card mt-4 p-4 border border-gray-200 rounded">
  <h4>COP29 Policy Brief – How Much Climate Finance Do Low- and Middle-Income Countries Need?</h4>
+ <!-- CMS:section id=application_cop29_policy_brief_how_much -->
  <p>
  <a href="(https://climatecompatiblegrowth.com/wp-content/uploads/COP29_Policy_Brief_MinFin.pdf" target="_blank" class="text-blue text-decoration-none">
  🔗 Read the Policy Brief (PDF)</a> 
  </p>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=application_cop29_policy_brief_how_much_2 -->
  <p class="text-gray content-text-sm">
  In this CCG COP29 Policy Brief, MINFin is applied to Kenya and Ghana to estimate the financing required to achieve Net Zero transitions in their power sectors. 
  The analysis compares Business-as-Usual (BAU) and Net Zero (NZ) scenarios to quantify the additional investment burden, assess feasible financing modalities 
@@ -75,28 +90,36 @@ permalink: /applications/
  The findings inform negotiations under the <strong>New Collective Quantified Goal (NCQG)</strong>, advocating for allocation principles that reflect real country-level needs 
  and financing constraints.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  <!-- Specialist Application  -->
  <div class="application-card mt-4 p-4 border border-gray-200 rounded">
  <h4>COP28 Policy Brief – How can Countries in the Global South Afford the Climate Transition?</h4>
+ <!-- CMS:section id=application_cop28_policy_brief_how_can -->
  <p>
  <a href="(https://climatecompatiblegrowth.com/wp-content/uploads/Affording-the-Climate-Transition.pdf" target="_blank" class="text-blue text-decoration-none">
  🔗 Read the Policy Brief (PDF)</a>
  </p>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=application_cop28_policy_brief_how_can_2 -->
  <p class="text-gray content-text-sm">
 In this CCG COP28 policy brief, the MINFin model is introduced as a way to assess climate financing gaps by comparing the financing costs of net-zero power sector transitions with the sector’s ability to repay financing. The approach projects capital investment requirements, financing costs, and expected power-sector cashflows to estimate affordability constraints. A pilot application in Kenya illustrates the potential scale of financing gaps in LMICs and highlights the importance of lowering financing costs, expanding concessional finance, and strengthening coordination between Ministries of Energy and Finance to support viable transition pathways.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  <!-- Specialist Application 3 -->
  <div class="application-card mt-4 p-4 border border-gray-200 rounded">
  <h4>T20 – G20: From Access to Affordability – A New Lens on Climate Finance for LMICs</h4>
+ <!-- CMS:section id=application_t20_g20_from_access_to -->
  <p>
  <a href="https://t20southafrica.org/commentaries/from-access-to-affordability-a-new-lens-on-climate-finance-for-lmics/" target="_blank" class="text-blue text-decoration-none">
  🔗 Read the T20 Commentary
  </a>
  </p>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=application_t20_g20_from_access_to_2 -->
  <p class="text-gray content-text-sm">
  This <strong>T20 South Africa</strong> policy commentary highlights the importance of shifting from a focus on 
  <em>access</em> to <em>affordability</em> in LMIC climate finance strategies. 
@@ -104,6 +127,7 @@ In this CCG COP28 policy brief, the MINFin model is introduced as a way to asses
  The piece emphasizes the need for concessional finance, tailored instruments, and tools like MINFin that align climate ambition with fiscal reality. 
  It recommends broader G20 support for open modelling platforms that help LMICs articulate and justify their financing needs.
  </p>
+ <!-- /CMS:section -->
  </div>
  </div>
 </section>

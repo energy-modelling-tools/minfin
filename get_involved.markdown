@@ -9,10 +9,12 @@ permalink: /contact/
  <div class="container-lg p-responsive">
  <div class="text-center mb-5">
  <h2 class="alt-h2 mb-4">Get Involved</h2>
+ <!-- CMS:section id=get_involved_get_involved -->
  <p class="text-gray content-max-820 mx-auto">
  MINFin is open-source and community-driven. You can contribute improvements, report issues, and help expand
  real-world applications that connect technical planning with financial strategy for energy transitions.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  {% include forum_cta.html %}
@@ -25,7 +27,9 @@ permalink: /contact/
  <div class="benefit-card text-center">
  <img src="/assets/img/tools.svg" height="40" class="mb-3" alt="Issues">
  <h5>Open Issues & Requests</h5>
+ <!-- CMS:section id=get_involved_open_issues_requests -->
  <p class="text-gray">Report bugs, request features, or propose enhancements via GitHub Issues.</p>
+ <!-- /CMS:section -->
  <p class="mb-0">
  <a href="https://github.com/MINFinModel/MINFin-Excel/issues" target="_blank" class="btn btn-outline-primary sky-blue-accent">Go to Issues →</a>
  </p>
@@ -34,13 +38,17 @@ permalink: /contact/
  <div class="benefit-card text-center">
  <img src="/assets/img/sparkles.svg" height="40" class="mb-3" alt="Case studies">
  <h5>Share Case Studies</h5>
+ <!-- CMS:section id=get_involved_share_case_studies -->
  <p class="text-gray">Contribute write-ups and datasets from your applications to help others learn and replicate.</p>
+ <!-- /CMS:section -->
  </div>
 
  <div class="benefit-card text-center">
  <img src="/assets/img/book.svg" height="40" class="mb-3" alt="Docs">
  <h5>Improve Documentation</h5>
+ <!-- CMS:section id=get_involved_improve_documentation -->
  <p class="text-gray">Refine guidance, add tutorials, and localise content for different country contexts.</p>
+ <!-- /CMS:section -->
  </div>
  </div>
  </div>
@@ -71,15 +79,19 @@ permalink: /contact/
 
  <div class="contribution-section text-left">
  <h5>How to contribute</h5>
+ <!-- CMS:section id=get_involved_how_to_contribute -->
  <ul class="contribution-steps">
  <li>Fork the repository: <a href="https://github.com/MINFinModel/MINFin-Excel/tree/main?tab=readme-ov-file" target="_blank">github.com/MINFinModel/MINFin-Excel</a></li>
  <li>Create a feature branch and make your changes (code, templates, documentation, or case studies)</li>
  <li>Reference related Issue(s) where applicable</li>
  <li>Open a Pull Request with a clear description and screenshots where helpful</li>
  </ul>
+ <!-- /CMS:section -->
+ <!-- CMS:section id=get_involved_how_to_contribute_2 -->
  <p class="text-muted">
  First-time contributor? Check existing Issues and Discussions to align with ongoing priorities.
  </p>
+ <!-- /CMS:section -->
  </div>
  </div>
  </div>
@@ -88,11 +100,13 @@ permalink: /contact/
  <!-- Section 3: Contact -->
  <div class="involvement-section mt-6">
  <h3 class="section-title text-center mb-3">✉️ Contact</h3>
+ <!-- CMS:section id=get_involved_contact -->
  <p class="text-center text-gray content-max-720 mx-auto">
  For further information about the model, partnerships, or contributing case studies, please contact 
  <strong>Hannah Luscombe</strong>, curator of the MINFin Model:
  <a href="mailto:hannah.luscombe@ouce.ox.ac.uk" class="text-blue text-decoration-none">hannah.luscombe@ouce.ox.ac.uk</a>.
  </p>
+ <!-- /CMS:section -->
  </div>
 
  </div>
